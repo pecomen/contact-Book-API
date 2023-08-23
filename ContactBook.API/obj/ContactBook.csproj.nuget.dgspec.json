@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peace\\Desktop\\week-six-task\\ContactBook\\ContactBook.API\\ContactBook.csproj": {}
+    "C:\\Users\\peace\\Desktop\\ContactBook\\ContactBook.API\\ContactBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peace\\Desktop\\week-six-task\\ContactBook\\ContactBook.API\\ContactBook.csproj": {
+    "C:\\Users\\peace\\Desktop\\ContactBook\\ContactBook.API\\ContactBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peace\\Desktop\\week-six-task\\ContactBook\\ContactBook.API\\ContactBook.csproj",
+        "projectUniqueName": "C:\\Users\\peace\\Desktop\\ContactBook\\ContactBook.API\\ContactBook.csproj",
         "projectName": "ContactBook",
-        "projectPath": "C:\\Users\\peace\\Desktop\\week-six-task\\ContactBook\\ContactBook.API\\ContactBook.csproj",
+        "projectPath": "C:\\Users\\peace\\Desktop\\ContactBook\\ContactBook.API\\ContactBook.csproj",
         "packagesPath": "C:\\Users\\peace\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peace\\Desktop\\week-six-task\\ContactBook\\ContactBook.API\\obj\\",
+        "outputPath": "C:\\Users\\peace\\Desktop\\ContactBook\\ContactBook.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

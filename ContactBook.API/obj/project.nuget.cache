@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cI1pyN9vrVxoF1BtHn3X4rD0WzJIo3JoIaVYYeuGK6eQf6uPAquoIh5cIx5v0Uoyxkdyh3AtNX4eMwgw6+VgDg==",
+  "dgSpecHash": "cpMN4O4VW3alulxY6sdACm1BYpI6NwR1kDAf+QxzqkVxW/xsXdXMjoA3kplD1v2w+hVwe8OMi0VWITvlVjJvbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\peace\\Desktop\\week-six-task\\ContactBook\\ContactBook.API\\ContactBook.csproj",
+  "projectFilePath": "C:\\Users\\peace\\Desktop\\ContactBook\\ContactBook.API\\ContactBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peace\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\peace\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
